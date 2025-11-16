@@ -2,6 +2,6 @@
 
 import HAVNLandingPage from '../HAVN-LP1';
 
-export default function Home() {
+export default function Page() {
   return <HAVNLandingPage />;
 }
